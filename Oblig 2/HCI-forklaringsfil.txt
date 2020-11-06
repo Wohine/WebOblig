@@ -1,0 +1,21 @@
+********************
+HCI - Forklaringsfil
+********************
+
+1. Percivable.
+- Ingen bakgrunnsstøy som forhindrer tekst til tale fra å kunne høres tydelig.
+
+2. Operable
+- Ingen av elementene på sidene er tidsstyrt, noe som gjør at man får med seg alt innhold uten unntak.
+
+3. Ingen blinkende eller flashy animasjoner.
+- Siden er vennlig mot epeleptikere grunnet at det ikke er noen animasjoner på siden.
+
+4. Forklarende titler.
+- Alle sidene på nettsiden har en forklarende tittel som gjør det lettere å finne fram til riktig innhold.
+
+5. Brukervennlig utforming.
+- Siden er lett å forstå og finne fram på. Bruken av farger gjør at elementene skiller seg fra hverandre.
+
+6. Input Purposes for User Interface Components.
+- Kontakt oss skjemaet er lett å forstå med forklarende overskrifter til hvilken input som skal inn.
